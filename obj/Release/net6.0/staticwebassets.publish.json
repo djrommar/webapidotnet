@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d7+q2BkO3r4PzjqXNx2pzLjfM75xy2w8xyhDinUS4C4=",
+  "Source": "AzureVnWebApi",
+  "BasePath": "_content/AzureVnWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
